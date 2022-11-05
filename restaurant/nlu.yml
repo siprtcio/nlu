@@ -144,6 +144,13 @@ nlu:
     - reservation
     - reserve a table
     - reserve sheets
+    - i would like to Dine-out
+    - i am interested in table booking
+    - i am interested in table reservation
+    - table reservation please
+    - please help me with table reservation
+    - help me with table reservation
+    - help me with reservation
 
 - intent: booking_with_count
   examples: |
