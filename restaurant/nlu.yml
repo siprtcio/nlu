@@ -29,7 +29,20 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
+    - bbye
+    - bye see you
+    - bbye take care
+    - bye tc
+    - bye take care see you soon
+    - bye see you soon
+    - bbye nice talking to you
+    - bye talk to you later
+    - bye see you soon
+    - bbye talk to you later
+    - bye meet you soon
+    - bbye meet you soon
+    - yes thank you
+    
 - intent: affirm
   examples: |
     - yes
