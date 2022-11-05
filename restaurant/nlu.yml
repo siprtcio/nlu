@@ -57,6 +57,21 @@ nlu:
     - right i am looking for it
     - start
     - lets go for it
+    - yes please
+    - why not
+    - yes please proceed further with booking
+    - yes i would love to book
+    - ya
+    - ya carry on with booking
+    - it would be amazing if you can do the booking here
+    - oh great, please do it for me
+    - yes thanks a lot
+    - yes it helped a lot..thanks
+    - yes it did,thanks a lot
+    - yup thanks
+    - yes thanks
+    - yes it did
+    - yes please go ahead
 
 - intent: deny
   examples: |
