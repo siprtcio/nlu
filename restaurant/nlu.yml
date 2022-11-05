@@ -276,3 +276,18 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    
+- intent: restaurant_review
+  examples: |
+    - restaurant was awesome
+    - food was great
+    - ambience was amazing
+    - service was okay
+    - add to my favourites
+    - give a 3.5 star
+    - average
+    - worst experience
+    - food was good was service wasnt
+    - the waiter was rude
+    - the meal was delicious
+    - food was exquisite
