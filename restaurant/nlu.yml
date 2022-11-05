@@ -108,6 +108,14 @@ nlu:
     - need a table booking. 
     - table reservation required. 
     - required reservation.
+    - table for a couple
+    - table with high chairs
+    - table in the corner
+    - table with a booth
+    - table near the pool side
+    - reservation
+    - reserve a table
+    - reserve sheets
 
 - intent: booking_with_count
   examples: |
@@ -122,6 +130,13 @@ nlu:
     - book a table for 2 persons. 
     - reserve for 2 persons. 
     - table 2
+    - Book a table for 2 people
+    - table for 10 persons
+    - table for 6
+    - table for 4 with an child seating
+    - reservation for 4
+    - reserve for 4
+    - reserve 4
 
 - intent: order_pizza
   examples: |
