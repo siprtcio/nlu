@@ -102,6 +102,22 @@ nlu:
     - i hate it
     - stop calling me.
     - don't call me.
+    - i am not sure
+    - i am not sure about it
+    - i am not sure actually
+    - no idea
+    - dont know
+    - no idea about that
+    - no idea about it
+    - i am not sure
+    - actually i really dont know 
+    - actually i really don't know
+    - i am new here i dont know 
+    - i really dont know
+    - i dont know
+    - dont know
+    - not sure actualy
+    - no idea i am new here
     
 - intent: complain
   examples: |
@@ -151,6 +167,9 @@ nlu:
     - please help me with table reservation
     - help me with table reservation
     - help me with reservation
+    - looking for table reservation
+    - looking for reservation
+    - i would like to book a table
 
 - intent: booking_with_count
   examples: |
@@ -172,7 +191,33 @@ nlu:
     - reservation for 4
     - reserve for 4
     - reserve 4
-
+    - please book table for 5 people
+    - please book table for 10 people
+    - ya plz book table for 2 people
+    - table for 3 please
+    - i would like to book for ten people
+    - please book for five guys
+    - can i have a table for two
+    - book the table for 2 please
+    - please get me a table for 22
+    - kindly book a table for 22
+    - book for 2 people
+    - get me a table booking for 8 people
+    - please get me a table for 22
+    - for 5 people
+    - please book for 6 people
+    - table for 55 please
+    - table for 4 please
+    - book a table for 66 people
+    - book a table for 44 people
+    - book a table for 66 people
+    - table for 55 please
+    - book for 7 people
+    - 4 people please
+    - book it for 10 people
+    - 5 people
+    - book for 44 people
+    
 - intent: order_pizza
   examples: |
     - i want order [one](pizza_quantity) [extra cheese](pizza_topping) [margarita pizza](pizza_name)
@@ -199,7 +244,23 @@ nlu:
     - tomorrow
     - day after tomorrow
     - after 3 days
-
+    - please book for tomorrow
+    - tomorrow please
+    - tomorrow evening
+    - day after tomorrow please
+    - please book for 10 october 2019
+    - book for 1 january 2020
+    - i would like to book for next week
+    - please book for next week
+    - can you please book for today itself
+    - please book it for tomorrow
+    - book it for tomorrow please
+    - book it for tomorrow
+    - book for tomorrowtomorrow
+    - book it for today
+    - book it for today only
+    - book for friday 8 pm
+    
 - intent: booking_with_time_day_hours_minute
   examples: |
     - tomorrow at 10:12 am
@@ -216,6 +277,8 @@ nlu:
     - day after tomorrow at 12:00 pm
     - after 3 days evening at 8:00 pm
     - required booking tomorrow morning at 10am
+    - please book for tomorrow 8 pm
+    - book for friday 8 pm
 
 - intent: booking_with_count_time_day_hours_minute
   examples: |
